@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Anish911033
-- 👀 I’m interested in new skill 
-- 🌱 I’m currently learning coding
-- 💞️ I’m looking to collaborate on ..
-- 📫 How to reach me 
+- 👀 I’m interested in learning new skill 
+- 🌱 I’m currently learning coding and doning b.sc in statistics 
+- 💞️ I’m looking to collaborate on 
+- 📫 How to reach me anishkumar282003@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
